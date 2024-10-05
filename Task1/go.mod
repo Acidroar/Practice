@@ -1,6 +1,6 @@
-module github.com/Acidroar/Practice/Task1
+module github.com/kenedyCO/Practice
 
-go 1.23.1
+go 1.23.0
 
 require github.com/labstack/echo/v4 v4.12.0
 
