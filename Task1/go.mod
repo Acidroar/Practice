@@ -1,4 +1,4 @@
-module github.com/kenedyCO/Practice
+module github.com/Acidroar/Practice
 
 go 1.23.0
 

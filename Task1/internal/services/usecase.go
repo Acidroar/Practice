@@ -3,11 +3,10 @@ package services
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/kenedyCO/Practice/internal/models"
 	"log"
 	rand2 "math/rand/v2"
 	"net/http"
-
-	"github.com/kenedyCO/Practice/internal/models"
 )
 
 type Client interface {
